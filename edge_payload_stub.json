@@ -1,0 +1,14 @@
+{
+  "device_id": "omnio-node-urban-09x",
+  "timestamp": "2026-07-07T16:15:00Z",
+  "firmware_version": "v2.4.1-edge",
+  "telemetry_data": {
+    "vibration_hz": 42.8,
+    "core_temperature_celsius": 38.5,
+    "power_load_kw": 12.4
+  },
+  "network_status": {
+    "signal_strength_dbm": -68,
+    "retry_count": 0
+  }
+}
